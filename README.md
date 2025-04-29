@@ -29,13 +29,13 @@ Não é necessário instalar bibliotecas ou frameworks.
 ### 🔨 Guia de instalação
 
 * Clone este repositório:
-
+```
 git clone https://github.com/seu-usuario/login.git
-
+```
 * Navegue até a pasta do projeto:
-
+```
 cd login
-
+```
 * Abra o arquivo index.html em seu navegador
 
 
